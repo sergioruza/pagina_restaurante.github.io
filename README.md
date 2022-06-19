@@ -1,1 +1,1 @@
-# pagina_restaurante.github.io
+Esse desafio tem como objetivo treinar as habilidades aprendidas até agora em HTML e CSS.
